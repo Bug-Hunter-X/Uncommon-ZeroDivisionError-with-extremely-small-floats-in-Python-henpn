@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error scenario in Python where a `ZeroDivisionError` can occur even when explicitly checking for zero. This is due to the limitations of floating-point precision. The `bug.py` file contains the buggy code and `bugSolution.py` demonstrates a solution using a tolerance threshold.
